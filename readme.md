@@ -7,3 +7,5 @@ Favor sempre que mexer nesse projeto gritar Receba!
 - Receba
 - BoraBill
 - Davi Brito
+
+ALteração remota do RECEBA! 
